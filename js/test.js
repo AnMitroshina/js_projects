@@ -28,7 +28,9 @@ console.log(_name);
 // изменяемый тип данных
 
 {
-    let result = 20;
+    let result = 20,
+        totl = 50;
+
 }
 
 console.log(result);
